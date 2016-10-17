@@ -1,0 +1,110 @@
+ /*
+    Created on : Oct 2, 2016.
+    Author     : S M SHAKHAWAT HOSSAIN
+    Email      : shakhawat.tex@gmail.com
+*/
+
+
+/*Header top section start*/
+.header-top {
+	background: #A5ADB0;
+	padding-top: 50px;
+}
+.header-top img {
+	width: 125px;
+}
+.brdr {
+    border-bottom: 1px solid #CAD2D7;
+    width: 102%;
+
+}
+
+.header-top ul {
+	margin-bottom: 40px;
+}
+.header-top ul li {
+	padding-left: 8px;
+}
+
+.header-top ul li a {
+    color: #2D3438;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: Bold;
+
+}
+.header-top ul li a:hover {
+	color: #fff;
+	background: #646D72;
+}
+/*Header top section end*/
+
+ /*Idiot section start*/
+
+.idiot {
+	background: #A5ADB0;
+}
+
+.idiot-text {
+    position: absolute;
+    padding-left: 100px;
+    padding-top: 255px;
+}
+.idiot img {
+	padding-top: 10px;
+}
+
+ /*Idiot section end*/
+
+ /*Text section start*/
+
+.text-area {
+	background-color: #F3F4F5;
+
+}
+ .text-area {
+    padding-top: 35px;
+    padding-bottom: 5px
+ }
+ /*Text section end*/
+
+/*sidebar section satrt*/
+.brdr-right {
+	border-left: 1px solid #CAD2D7;
+}
+/*sidebar section end*/
+
+/*Footer section start*/
+
+.brdr-bottom {
+	background-color: #F3F4F5;
+
+}
+.brdr-footer {
+    border-top: 1px solid #646D72;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: -36px;
+    padding-top: 60px;
+    padding-bottom: 65px;
+    margin-top: 67px;
+}
+
+.brdr-bottom ul {
+	margin-left: -20px;
+}
+.brdr-bottom img {
+	width: 40px;
+}
+.footer-right ul {
+	margin-right: -20px;
+}
+.footer-right ul li {
+	margin-left: -10px;
+}
+.footer-right img {
+	width: 25px;
+
+}
+
+/*Footer section end

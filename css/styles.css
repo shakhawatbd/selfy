@@ -1,0 +1,208 @@
+ /*
+    Created on : Oct 2, 2016.
+    Author     : S M SHAKHAWAT HOSSAIN
+    Email      : shakhawat.tex@gmail.com
+*/
+
+.bg-clr {
+    background: #F3F4F5;
+}
+
+/*Header top section start*/
+.header-top {
+	background: #F3F4F5;
+	padding-top: 50px;
+}
+.header-top img {
+	width: 125px;
+}
+.brdr {
+    border-bottom: 1px solid #CAD2D7;
+    width: 102%;
+
+}
+
+.header-top ul {
+	margin-bottom: 40px;
+}
+.header-top ul li {
+	padding-left: 8px;
+}
+
+.header-top ul li a {
+    color: #2D3438;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: Bold;
+
+}
+.header-top ul li a:hover {
+	color: #fff;
+	background: #646D72;
+}
+/*Header top section end*/
+
+/*Header right section start*/
+
+.brdr-right {
+    border-left: 1px solid #646D72;
+    margin-top: 50px;
+    padding-left: 48px;
+
+}
+
+/*Header right section end*/
+
+
+/*Heading section start*/
+.highlight {
+    color: #FACE27;
+}
+.heading {
+    margin-top: 48px;
+
+}
+.heading a {
+    color: black;
+    text-decoration: none;
+}
+.heading a:hover {
+    color: #FACE27;
+}
+/*Heading section end*/
+
+/*Border section start*/
+.solid-brdr {
+    border-bottom: 1px solid #646D72;
+    width: 100%;
+    margin-top: 40px;
+}
+.dashed-brdr {
+    border-bottom: 1px dashed #646D72;
+    width: 100%;
+    padding-top: 30px;
+}
+.dotted-brdr {
+    border-bottom: 1px dotted #646D72;
+    width: 100%;
+    padding-top: 30px;
+
+}
+/*Border section end*/
+
+/*Button section start*/
+.button-sec {
+    margin-top: 40px;
+    border-bottom: 1px solid #646D72;
+    width: 90%;
+    padding-bottom: 40px;
+}
+
+/*Button section end*/
+
+
+/*Image section start*/
+
+.img-sec {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+.img-setting {
+    margin-top: 10px;
+    padding-bottom: 25px;
+    margin-left: -32px;
+}
+.lorem-ipsum p {
+    margin-top: 9px;
+    padding-bottom: 45px;
+    margin-left: -15px;
+    border-bottom: 1px solid #646D72;
+}
+
+/*Image section end*/
+
+/*Table section start*/
+.tbl {
+    margin-top: 20px;
+}
+
+/*Table section end*/
+
+/*Form section start*/
+.frm {
+    padding-top: 15px;
+}
+.frm p{
+    padding-bottom: 15px;
+}
+.scheduler-border {
+    padding-top: 15px;
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+            box-shadow:  0px 0px 0px 0px #000;
+}
+
+.scheduler-legend {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+
+
+}
+/*Form section end*/
+
+/*Iframe section start*/
+.iframe {
+    border-top: 1px solid #646D72;
+    width: 95%;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.outer-brdr {
+    border: 7px solid #fff; 
+    border-radius: 6px;
+    margin-bottom: 20px; 
+    margin-top: 20px;
+}
+
+/*Iframe section end*/
+
+
+
+/*Footer section start*/
+
+.brdr-bottom {
+    background-color: #F3F4F5;
+
+}
+.brdr-footer {
+    border-top: 1px solid #646D72;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: -36px;
+    padding-top: 60px;
+    padding-bottom: 65px;
+    margin-top: 67px;
+}
+
+.brdr-bottom ul {
+    margin-left: -20px;
+}
+.brdr-bottom img {
+    width: 40px;
+}
+.footer-right ul {
+    margin-right: -20px;
+}
+.footer-right ul li {
+    margin-left: -10px;
+}
+.footer-right img {
+    width: 25px;
+
+}
+
+/*Footer section end
